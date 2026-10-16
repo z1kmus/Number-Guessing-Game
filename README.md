@@ -2,6 +2,8 @@
 
 This project is a number guessing game written in Python. The player tries to guess a hidden number between 1 and 100 within a limited number of attempts.
 
+Project URL -> https://roadmap.sh/projects/number-guessing-game
+
 ## About the Game
 
 - There are 3 difficulty levels:
